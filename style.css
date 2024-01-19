@@ -1,0 +1,17 @@
+body {
+    font-style: bold;
+    text-align: justify;
+    color: gold;
+    background-image: url(../yu/bib.png);
+}
+
+
+h1 {
+    background-color: rgb(229, 6, 6);
+    text-align: center;
+}
+
+
+form{
+    background-color: rgb(255, 0, 0);
+}
